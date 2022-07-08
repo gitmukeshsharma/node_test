@@ -1,2 +1,4 @@
 password=2jkj12112121213
 AWS key=AKIAIIUZCFUBHK345NOA
+hiveDBHost = "jdbc:hive2://hadoop01-dnt-g1dr-hv-hiveserver2-server.hadoop01-int-g1dr.svc.cluster.local"
+test@gmail.com
